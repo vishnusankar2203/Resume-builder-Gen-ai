@@ -75,10 +75,8 @@ License
 This project is licensed under the MIT License.
 
 
----
 
-👉 I added a **Live Demo section** at the top so HRs, recruiters, or developers can instantly click and view your hosted app.  
 
-Do you want me to also add **screenshots & usage instructions** (how to generate a resume step by step) to make the README even more attractive for recruiters?
+
 
 
