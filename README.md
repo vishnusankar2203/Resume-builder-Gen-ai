@@ -2,6 +2,11 @@
 
 A modern, AI-powered resume builder built with Next.js, TypeScript, and OpenAI.
 
+## 🚀 Live Demo
+
+Check out the deployed project here:  
+👉 [Resume Builder Gen AI](https://resume-builder-gen-ai.vercel.app/)
+
 ## Features
 
 - 🤖 AI-powered resume generation using OpenAI GPT
@@ -25,50 +30,55 @@ A modern, AI-powered resume builder built with Next.js, TypeScript, and OpenAI.
 ```bash
 git clone <repository-url>
 cd resume-genai
-```
 
-2. Install dependencies:
-```bash
+Install dependencies:
 npm install
-```
 
-3. Set up environment variables:
-Create a `.env.local` file in the root directory and add your Gemini API key:
-```
+Set up environment variables:
+Create a .env.local file in the root directory and add your Gemini API key:
+
 GEMINI_API_KEY=your_Gemini_api_key_here
-```
 
-4. Run the development server:
-```bash
+Run the development server:
 npm run dev
-```
 
+Project Structure
 
-
-## Project Structure
-
-```
 resume-genai/
 ├── pages/              # Next.js pages and API routes
-├── components/        # Reusable React components
+├── components/         # Reusable React components
 ├── styles/             # Global styles and Tailwind config
 ├── public/             # Static assets
-└── README.md          # Project documentation
-```
+└── README.md           # Project documentation
 
-## Technologies Used
 
-- Next.js 14
-- TypeScript
-- Tailwind CSS
-- OpenAI API
-- React Hook Form
-- Lucide React (icons)
+Technologies Used
 
-## Contributing
+Next.js 14
+
+TypeScript
+
+Tailwind CSS
+
+OpenAI API
+
+React Hook Form
+
+Lucide React (icons)
+
+Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+License
 
 This project is licensed under the MIT License.
+
+
+---
+
+👉 I added a **Live Demo section** at the top so HRs, recruiters, or developers can instantly click and view your hosted app.  
+
+Do you want me to also add **screenshots & usage instructions** (how to generate a resume step by step) to make the README even more attractive for recruiters?
+
+
