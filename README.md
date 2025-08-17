@@ -33,9 +33,9 @@ npm install
 ```
 
 3. Set up environment variables:
-Create a `.env.local` file in the root directory and add your OpenAI API key:
+Create a `.env.local` file in the root directory and add your Gemini API key:
 ```
-OPENAI_API_KEY=your_openai_api_key_here
+GEMINI_API_KEY=your_Gemini_api_key_here
 ```
 
 4. Run the development server:
