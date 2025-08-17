@@ -43,7 +43,7 @@ GEMINI_API_KEY=your_Gemini_api_key_here
 npm run dev
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
 
 ## Project Structure
 
