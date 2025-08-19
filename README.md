@@ -9,7 +9,7 @@ Check out the deployed project here:
 
 ## Features
 
-- 🤖 AI-powered resume generation using OpenAI GPT
+- 🤖 AI-powered resume generation using Gemini ai 
 - 🎨 Multiple professional templates (Modern, Classic, Minimal)
 - 📱 Responsive design with Tailwind CSS
 - ⚡ Real-time preview
